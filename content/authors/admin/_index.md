@@ -96,46 +96,46 @@ skills:
   - name: Professional Skills
     items:
       - name: Tax Policy & Compliance
-        description: ''
+        description: Deep understanding of tax frameworks and regulatory standards
         percent: 95
         icon: scale
       - name: Financial Analysis
-        description: ''
+        description: Skilled in evaluating data to support financial decisions
         percent: 85
         icon: chart-line
       - name: Risk Assessment & Audit Support
-        description: ''
+        description: Able to identify, assess, and support risk mitigation strategies
         percent: 80
         icon: shield-check
       - name: Training & Mentorship
-        description: ''
+        description: Experienced in guiding and supporting peers and new hires
         percent: 90
         icon: users
       - name: Data Interpretation & Reporting
-        description: ''
+        description: Capable of translating raw data into actionable insights
         percent: 75
         icon: document-chart-bar
 
   - name: Technical Tools
     items:
       - name: Excel & Financial Modelling
-        description: 'Used for budgeting, forecasting, variance analysis, and building audit-ready financial summaries'
+        description: Strong command of spreadsheets for analysis and forecasting
         percent: 90
         icon: table-cells
       - name: CRA Systems (CIMS, IRM, Represent a Client)
-        description: 'Experienced with CRA platforms for taxpayer account management, case review, and compliance documentation'
+        description: Proficient with internal CRA tools for taxpayer account management
         percent: 90
         icon: folder-open
       - name: SAP & Public Sector Accounting Tools
-        description: 'Familiarity with government finance systems (SAP) and Public Sector Accounting Standards (PSAS) for budget and control functions'
+        description: Hands-on experience with SAP and PSAS-compliant systems
         percent: 75
         icon: building-columns
       - name: Data Analysis & Audit Software (IDEA, ACL)
-        description: 'Knowledge of audit sampling, risk flags, and transaction testing using data analytics tools'
+        description: Basic to intermediate use of audit analytics software
         percent: 60
         icon: magnifying-glass-chart
       - name: Financial Reporting Standards (IFRS, GAAP, PSAS)
-        description: 'Working understanding of IFRS and GAAP, with contextual application to public and corporate financial reporting'
+        description: Familiar with major standards used in financial disclosures
         percent: 80
         icon: book-open
 
@@ -144,21 +144,22 @@ skills:
     color_border: '#f0bf23'
     items:
       - name: Sketching & Drawing
-        description: ''
+        description: My favorite way to slow down and get creative
         percent: 85
         icon: paintbrush
       - name: Baking
-        description: ''
+        description: A weekly ritual of joy, sugar, and flour
         percent: 90
         icon: cupcake
       - name: Hiking & Nature
-        description: ''
+        description: Where I unplug and reconnect with the outdoors
         percent: 70
         icon: person-hiking
       - name: Pet Parenting 🐾
-        description: ''
+        description: Keeping up with a cat who thinks he owns the house
         percent: 100
         icon: cat
+
 
 languages:
   - name: English
