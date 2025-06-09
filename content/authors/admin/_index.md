@@ -66,7 +66,7 @@ education:
       - ACC926 Intermediate Financial Accounting I
 
 work:
-  - position: Taxpayer Services Agent (SP-05)
+  - position: Senior Taxpayer Services Agent (SP-05)
     company_name: Canada Revenue Agency
     company_url:
     company_logo:
