@@ -93,49 +93,62 @@ work:
       - Developing a reputation for clarity, empathy, and efficiency in high-volume, high-stakes interactions
 
 skills:
-  - name: Professional Skills
+  - name: Professional Competencies
     items:
-      - name: Tax Policy & Compliance
-        description: Deep understanding of tax frameworks and regulatory standards
-        percent: 95
+      - name: Tax Law & Compliance
+        description: Skilled in applying ITA, ETA, and GST/HST rules to identify non-compliance.
+        percent: 90
         icon: scale
-      - name: Financial Analysis
-        description: Skilled in evaluating data to support financial decisions
+
+      - name: Audit Techniques & Risk Assessment
+        description: Proficient in audit planning, sampling, and CRA risk assessment methods.
+        percent: 85
+        icon: shield-check
+
+      - name: Financial & Variance Analysis
+        description: Strong in interpreting financials and analyzing variances under PSAS.
         percent: 85
         icon: chart-line
-      - name: Risk Assessment & Audit Support
-        description: Able to identify, assess, and support risk mitigation strategies
+
+      - name: Policy & Legislative Research
+        description: Experienced in researching tax law, CRA policies, and case law.
         percent: 80
-        icon: shield-check
-      - name: Training & Mentorship
-        description: Experienced in guiding and supporting peers and new hires
+        icon: book-open
+
+      - name: Client Education & Communication
+        description: Effective in explaining tax rules and delivering outreach and training.
         percent: 90
         icon: users
-      - name: Data Interpretation & Reporting
-        description: Capable of translating raw data into actionable insights
-        percent: 75
-        icon: document-chart-bar
 
-  - name: Technical Tools
+      - name: Report Writing & Appeals
+        description: Skilled in drafting audit findings, appeals, and clear policy summaries.
+        percent: 85
+        icon: document-text
+
+  - name: Technical Tools & Standards
     items:
-      - name: Excel & Financial Modelling
-        description: Strong command of spreadsheets for analysis and forecasting
+      - name: Excel & Financial Modeling
+        description: Advanced use of Excel for analysis, modeling, and financial reporting.
         percent: 90
         icon: table-cells
-      - name: CRA Systems (CIMS, IRM, Represent a Client)
-        description: Proficient with internal CRA tools for taxpayer account management
+
+      - name: SAP & Government Financial Systems
+        description: Practical experience with SAP and PSAS-based accounting tools.
+        percent: 80
+        icon: building-columns
+
+      - name: CRA Internal Tools (CIMS, IRM, Represent a Client)
+        description: Operational knowledge of CRA platforms for taxpayer and case handling.
         percent: 90
         icon: folder-open
-      - name: SAP & Public Sector Accounting Tools
-        description: Hands-on experience with SAP and PSAS-compliant systems
-        percent: 75
-        icon: building-columns
-      - name: Data Analysis & Audit Software (IDEA, ACL)
-        description: Basic to intermediate use of audit analytics software
-        percent: 60
+
+      - name: Data Analytics & Audit Software (IDEA, ACL)
+        description: Basic use of IDEA and ACL for audit testing and data analysis.
+        percent: 70
         icon: magnifying-glass-chart
-      - name: Financial Reporting Standards (IFRS, GAAP, PSAS)
-        description: Familiar with major standards used in financial disclosures
+
+      - name: Financial & Regulatory Standards (IFRS, GAAP, PSAS)
+        description: Familiar with IFRS, GAAP, and PSAS for financial reporting and tax.
         percent: 80
         icon: book-open
 
