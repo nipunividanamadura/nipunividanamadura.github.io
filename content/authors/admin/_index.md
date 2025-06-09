@@ -178,9 +178,9 @@ languages:
   - name: English
     percent: 100
   - name: French
-    percent: 75
+    percent: 10
   - name: Sinhala
-    percent: 25
+    percent: 100
 ---
 
 ## About Me
