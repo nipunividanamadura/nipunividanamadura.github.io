@@ -66,11 +66,11 @@ education:
       - ACC926 Intermediate Financial Accounting I
 
 work:
-  - position: Senior Taxpayer Services Agent (SP-05)
+  - position: Senior Taxpayer Services Specialist
     company_name: Canada Revenue Agency
     company_url:
     company_logo:
-    date_start: 2025-12-01
+    date_start: 2025-01-01
     date_end:
     summary: |
       Advanced role supporting taxpayer compliance and education across multiple tax programs. Responsibilities include:
@@ -79,12 +79,12 @@ work:
       - Conducting thorough reviews of taxpayer accounts to identify discrepancies, ensure compliance, and resolve escalated cases
       - Contributing to internal process improvements and knowledge-sharing initiatives to increase operational efficiency
 
-  - position: Taxpayer Services Agent (SP-04)
+  - position: Taxpayer Services Specialist
     company_name: Canada Revenue Agency
     company_url:
     company_logo:
     date_start: 2021-11-01
-    date_end: 2025-11-30
+    date_end: 2024-12-31
     summary: |
       Front-line tax services position focused on client support and accurate application of tax legislation. Responsibilities included:
       - Assisting taxpayers with inquiries on a wide range of programs including GST/HST, payroll, and income tax
